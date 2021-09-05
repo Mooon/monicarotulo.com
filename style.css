@@ -447,7 +447,7 @@ lesshat-selector {
   transition: all 0.3s;
   opacity: 1;
   top: 0px;
-  padding-bottom: 6px;
+  padding-bottom: 40px;
   color: whitesmoke;
 }
 
@@ -458,20 +458,24 @@ lesshat-selector {
 @media only screen and (max-width: 766px) {
   .main_nav {
     padding-top: 25px;
+    padding-bottom: 40px;
   }
 }
 .open-nav {
-  max-height: 400px !important;
+  /* max-height: 400px !important; */
+  max-height: 800px !important;
   background-color: #ffffff;
 }
 
 .open-nav a {
   color: #000000;
+  font-size: 1.5em !important;
 }
 .sticky {
   background-color: #ffffff;
   color: #000000;
   top: 0px;
+  padding-bottom: 40px;
 }
 .sticky a {
   color: black;
@@ -510,7 +514,7 @@ nav ul li {
 @media only screen and (max-width: 766px) {
   nav ul li {
     width: 100%;
-    padding: 7px 0;
+    padding: 25px 0;
     margin: 0;
   }
   nav ul li:first-child {
