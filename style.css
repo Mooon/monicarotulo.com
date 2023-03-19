@@ -188,8 +188,8 @@ header {
   height: var(--hero-height);
   /*  */
   /*background-image: url("./image/gradient_big2dots.png");*/
-  /*background-image: url("./image/45.jpg");*/
-  background-image: linear-gradient(to bottom, #282E6E, #CB98FF);
+  background-image: url("./image/kukai_art.jpg");
+  /*background-image: linear-gradient(to bottom, #282E6E, #CB98FF);*/
   background-repeat: no-repeat;
   background-size: cover;
 }
