@@ -82,21 +82,21 @@ h1 {
   font-weight: 800;
   line-height: 1.2;
   letter-spacing: -0.1rem;
-  /* font-family: "Libre Baskerville", serif; */
-  font-family: "Playfair Display", serif;
+  /* font-family: "Playfair Display", serif; */
+  font-family: "Montserrat", serif;
   font-weight: 900;
 }
 h2 {
   font-size: 3.3rem;
   line-height: 1.25;
   /* font-family: "Libre Baskerville", serif; */
-  font-family: "Playfair Display", serif;
+  font-family: "Montserrat", serif;
 }
 h3 {
   font-size: 3rem;
   line-height: 1.3;
   letter-spacing: -0.1rem;
-  font-family: "Playfair Display", serif;
+  font-family: "Montserrat", serif;
 }
 h4 {
   font-size: 2.4rem;
@@ -322,7 +322,7 @@ lesshat-selector {
   pointer-events: all;
   font-weight: 700;
   color: whitesmoke;
-  font-family: "Playfair Display", serif;
+  font-family: "Montserrat", serif;
 }
 .title span {
   font-size: 3.2rem;
@@ -654,7 +654,7 @@ nav ul a:hover {
 
 .about_text h4 {
   font-size: 1.2em;
-  font-family: "Playfair Display", serif;
+  font-family: "Montserrat", serif;
 }
 .about_facts h4 {
   padding-top: 30px;
